@@ -1,6 +1,6 @@
 fastapi
 uvicorn
 opencv-python
-mediapipe
+mediapipe==0.10.0
 numpy
 python-multipart

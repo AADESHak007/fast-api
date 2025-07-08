@@ -1,6 +1,6 @@
 fastapi
 uvicorn
-opencv-python
-mediapipe==0.10.0
-numpy
+mediapipe==0.8.10
+opencv-python==4.5.5.64
+numpy==1.19.5
 python-multipart
